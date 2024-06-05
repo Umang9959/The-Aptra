@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="my_meeting_footer" transform="translate(-7)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="32" height="32" transform="translate(7)" fill="#f79622" opacity="0"/>
+    <g id="noun-speech-2813445" transform="translate(-133.376 -88.269)">
+      <path id="Path_9718" data-name="Path 9718" d="M292.079,104.564a5.943,5.943,0,1,0-5.16-.014,8.008,8.008,0,0,0-5.438,7.571v2.391a.511.511,0,0,0,.511.511h14.978a.511.511,0,0,0,.511-.511v-2.391a8.007,8.007,0,0,0-5.4-7.557Zm-7.487-5.352a4.921,4.921,0,1,1,5.015,4.917c-.043,0-.084-.006-.127-.006s-.062,0-.094,0a4.924,4.924,0,0,1-4.794-4.915ZM296.458,114H282.5v-1.881a6.983,6.983,0,0,1,6.884-6.973c.043,0,.085.006.127.006s.062,0,.094,0a6.983,6.983,0,0,1,6.851,6.971Z" transform="translate(-129.104 0)" fill="#bababa" stroke="#bababa" stroke-width="1"/>
+      <path id="Path_9719" data-name="Path 9719" d="M145.884,254.382v7.745h-1a.511.511,0,0,0,0,1.021H147.9a.511.511,0,1,0,0-1.021h-1V254.72l3.132-1.327a1.7,1.7,0,1,0-.415-1.1c0,.056.011.11.017.165l-3.444,1.459a.51.51,0,0,0-.311.47Zm5.452-2.787a.693.693,0,1,1-.693.693A.694.694,0,0,1,151.337,251.6Z" transform="translate(0 -148.125)" fill="#bababa" stroke="#bababa" stroke-width="1"/>
+      <circle id="Ellipse_2854" data-name="Ellipse 2854" cx="0.817" cy="0.817" r="0.817" transform="translate(150.492 103.54)" fill="#bababa"/>
+    </g>
+  </g>
+</svg>

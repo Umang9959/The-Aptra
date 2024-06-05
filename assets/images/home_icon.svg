@@ -1,0 +1,4 @@
+<svg id="home_icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="32" height="32" fill="#f79622" opacity="0"/>
+  <path id="home_icon-2" data-name="home_icon" d="M5.682,28.091v-12.3L3.1,17.751,2,16.278,15.5,6,29,16.309l-1.1,1.442-2.577-1.964v12.3ZM7.523,26.25H23.477V14.376L15.5,8.3,7.523,14.376Zm0,0h0Zm3.068-5.523a1.205,1.205,0,1,1,.874-.353A1.187,1.187,0,0,1,10.591,20.727Zm4.909,0a1.205,1.205,0,1,1,.874-.353A1.187,1.187,0,0,1,15.5,20.727Zm4.909,0a1.205,1.205,0,1,1,.874-.353A1.187,1.187,0,0,1,20.409,20.727Z" transform="translate(1 -1)" fill="#bababa"/>
+</svg>
